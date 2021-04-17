@@ -1,1 +1,1 @@
-writehost "test"
+Write-Host "Hello World"
